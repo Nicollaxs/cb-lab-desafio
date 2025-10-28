@@ -11,7 +11,7 @@ No arquivo detalho cada atributo, e como eu interpretei cada um de acordo com as
 
 Solução completa incluindo:
 
-1. **MER - Modelo Entidade Relacional** (Clique na imagem para facilitar a vizualização)
+1. **DER - Diagrama Entidade Relacional** (Clique na imagem para facilitar a vizualização)
 
 ![MER - Modelo Entidade Relacional](/image.png)
 
